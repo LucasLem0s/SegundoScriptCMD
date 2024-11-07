@@ -1,0 +1,11 @@
+Criar um script para CMD que:
+
+1 - Clone um repositório git para a unidade C: do computador
+2 - Acesse a pasta do repositório clonado
+3 - Execute os comandos de configuração de Nome de Usuário e Email do Git
+4 - Crie um arquivo de texto que mostre o hostname da sua máquina
+5 - Crie um arquivo de texto de mostre o ip da sua máquina
+6 - Faça o commit desses arquivos
+7 - Envie para o repositório do GitHub
+
+E entrega é individual e via GitHub
